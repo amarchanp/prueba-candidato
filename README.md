@@ -16,7 +16,7 @@ Prueba diseñada para evaluar las aptitudes y habilidades relacionadas con despl
 ### Requisitos Previos
 
 1. Conocimientos básicos de **sistemas operativos** y **línea de comandos**.
-2. Familiaridad con herramientas de **automatización** como Docker, Kubernetes o similares.
+2. Familiaridad con herramientas de **contenerización** como Docker, Kubernetes o similares.
 3. Experiencia en el uso de **Git** para la gestión de código.
 
 ---
@@ -24,16 +24,16 @@ Prueba diseñada para evaluar las aptitudes y habilidades relacionadas con despl
 ### Tareas Principales
 
 1. **Configuración del entorno**  
-   - Preparar los sistemas necesarios para el despliegue (vm linux).
-   - Validar las herramientas necesarias (Docker, git).
+   - Preparar los sistemas necesarios para el despliegue (VM Linux).
+   - Validar las herramientas necesarias (Docker, Git).
 
 2. **Ejecución del despliegue**  
    - Implementar los pasos de despliegue según las instrucciones proporcionadas.
    - Resolver cualquier problema que surja durante el proceso.
 
 3. **Argumentación**
-   - Documentar claramente los pasos realizados.
-   - Propuestas de mejoras.
+   - Argumentar claramente los pasos realizados para comprobar su correcto entendimiento.
+   - Propuestas de mejoras (Opcional).
 
 ---
 
@@ -53,4 +53,3 @@ En esta prueba deberás obtener este repositorio en tu VM, tras esto hacer los c
 
 ---
 ¡Buena suerte!
-
