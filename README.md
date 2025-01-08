@@ -49,7 +49,7 @@ La evaluación se basará en los siguientes criterios:
 
 ### Ejercicio
 
-En esta prueba deberás obtener este repositorio en tu VM, tras esto hacer los cambios necesarios para que la imagen Docker posea una imagen base de **node:14-alpine** y exponer esta aplicación a un puerto el cual será accesible desde el navegador.
+En esta prueba deberás obtener este repositorio en tu VM, tras esto hacer los cambios necesarios para que la imagen Docker posea una imagen base de **node:14-alpine** y exponer esta aplicación al puerto 5000 el cual será accesible desde el navegador.
 
 ---
 ¡Buena suerte!
